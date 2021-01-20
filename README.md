@@ -2,7 +2,10 @@
 
 <img src="https://celerik.com/wp-content/uploads/2019/12/celerik-1.svg" alt="Celerik" width="300">
 
+
 # Ionic React + Capacitor template
+<br>
+<img src="ionic-react-capacitor.png" alt="Celerik" width="300">
 
 </div>
 
