@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394b4471-c9da-4c6b-b2c8-e9c0699a8bd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExploreContainer/ExploreContainer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/TestLayout/TestLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/TestLayout/TestLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.lazy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.lazy.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab1/Tab1.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.lazy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.lazy.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab2/Tab2.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.lazy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.lazy.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tabs/Tab3/Tab3.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/Page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theme/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +69,7 @@
       <workItem from="1611149276984" duration="261000" />
       <workItem from="1611149541305" duration="418000" />
       <workItem from="1611149962566" duration="994000" />
+      <workItem from="1611150971124" duration="3611000" />
     </task>
     <servers />
   </component>
