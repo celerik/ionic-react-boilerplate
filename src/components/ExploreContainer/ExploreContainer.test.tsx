@@ -6,7 +6,7 @@ import ExploreContainer from './ExploreContainer';
 describe('<ExploreContainer />', () => {
   test('it should mount', () => {
     render(<ExploreContainer />);
-    
+
     const exploreContainer = screen.getByTestId('ExploreContainer');
 
     expect(exploreContainer).toBeInTheDocument();

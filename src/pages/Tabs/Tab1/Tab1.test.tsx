@@ -6,7 +6,7 @@ import Tab1 from './Tab1';
 describe('<Tab1 />', () => {
   test('it should mount', () => {
     render(<Tab1 />);
-    
+
     const tab1 = screen.getByTestId('Tab1');
 
     expect(tab1).toBeInTheDocument();
