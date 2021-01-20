@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394b4471-c9da-4c6b-b2c8-e9c0699a8bd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic-react-capacitor.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/ionic-react-capacitor.png" afterDir="false" />
-    </list>
+    <list default="true" id="394b4471-c9da-4c6b-b2c8-e9c0699a8bd0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +83,7 @@
       <workItem from="1611170821457" duration="2387000" />
       <workItem from="1611173610992" duration="101000" />
       <workItem from="1611173715208" duration="577000" />
-      <workItem from="1611174296940" duration="4294000" />
+      <workItem from="1611174296940" duration="4711000" />
     </task>
     <servers />
   </component>

@@ -1415,14 +1415,14 @@
     ionicons "^5.1.2"
     tslib "^1.10.0"
 
-"@ionic/react-router@^5.0.7":
+"@ionic/react-router@5.5.2":
   version "5.5.2"
   resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.5.2.tgz#93b85c69329106ff10844efb8fcc55f9059d3278"
   integrity sha512-VJz4WA5B7X84MtcLOXIVOcrGsJFaZzFJ5Mzah+7z/M88InUwc6FoAjinFtTgmAmFbOXmGzo9lBBmzbKs86iZVQ==
   dependencies:
     tslib "*"
 
-"@ionic/react@^5.0.7":
+"@ionic/react@5.5.2":
   version "5.5.2"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-5.5.2.tgz#18dc56ec75d9dcee765c30028e265661e04a191e"
   integrity sha512-PNcpjNlNwCjsGQQmrF6QeDzEIOKuCzq4B0QYK1M+uWZQuGD869Nfr/66+ZfMoihjBrry692sjtELMJpIl9FHXQ==
@@ -1785,7 +1785,7 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@storybook/addon-actions@6.1.14", "@storybook/addon-actions@^6.1.14":
+"@storybook/addon-actions@6.1.14":
   version "6.1.14"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.1.14.tgz#20a173d781d99368a1af769ed75551a3784f3135"
   integrity sha512-mXvrL8B34Rtq1WPxbQ1eUip8spqQP43HWGRH0ZmCO3Iwwcmxd6250LY3q+95QqJYsli0XJoOnS97VOLXABpaPg==
@@ -1886,7 +1886,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/addon-essentials@^6.1.14":
+"@storybook/addon-essentials@6.1.14":
   version "6.1.14"
   resolved "https://registry.yarnpkg.com/@storybook/addon-essentials/-/addon-essentials-6.1.14.tgz#5dbd90417fe0bebded547cc9131072acef4aef84"
   integrity sha512-JcBq6wqO5C0JM/8GPBTiqBqbh5yYZzJJyRAwH8uZ44aaX94kTIuCF3wgNRCfA0Ed2ub+aMjd+ZFjpRD7dhkRSA==
@@ -1904,7 +1904,7 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-links@^6.1.14":
+"@storybook/addon-links@6.1.14":
   version "6.1.14"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.1.14.tgz#c30cd46fe3d982fe04f22a8c1f034c70829f413b"
   integrity sha512-hyecksxJpdNumRFCss8YFD6q2+9yoQ3SYO++Fg69IFA5DpatKugmtQRvibR4WDT1a0NYjW9cej3YcyWcOmifhQ==
@@ -2191,7 +2191,7 @@
   dependencies:
     lodash "^4.17.15"
 
-"@storybook/node-logger@6.1.14", "@storybook/node-logger@^6.1.14":
+"@storybook/node-logger@6.1.14":
   version "6.1.14"
   resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-6.1.14.tgz#e5294f986e3ec5c67b2738895b9d16c9a2b667fa"
   integrity sha512-3jrw7coAwFXZu4qK1vm54bCPhNRvxjG+7jISbhhocDoNIv0nLWL3+tJyrC5/k/XHQiUlLkhEzpMaASADmkttNw==
@@ -2209,7 +2209,7 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/preset-create-react-app@^3.1.5":
+"@storybook/preset-create-react-app@3.1.5":
   version "3.1.5"
   resolved "https://registry.yarnpkg.com/@storybook/preset-create-react-app/-/preset-create-react-app-3.1.5.tgz#af46c9d64c384980d458fe99c10dcbaa623f93fd"
   integrity sha512-tzYcCRD5j22/HoDZ1tvsKaVnzyd4qqTE9sn3cx56Reb0XHcm4XkvG87jx0NvBGPCZrsThyBAtB3+XNxoFbI+9Q==
@@ -2221,7 +2221,7 @@
     react-docgen-typescript-plugin "^0.6.2"
     semver "^7.3.2"
 
-"@storybook/react@^6.1.14":
+"@storybook/react@6.1.14":
   version "6.1.14"
   resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.1.14.tgz#436e9b90096b1d7c83f7f073b5baf47212b2e425"
   integrity sha512-M99wHjc/5z+Wz1FdFaScVs6dyAi/6PdcIx5Fyip6Qd8aKwm1XyYoOMql5Vu3Cf560feDYCKS4phzyEZ7EJy+EQ==
@@ -2745,7 +2745,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-router-dom@^5.1.3":
+"@types/react-router-dom@5.1.7":
   version "5.1.7"
   resolved "https://registry.yarnpkg.com/@types/react-router-dom/-/react-router-dom-5.1.7.tgz#a126d9ea76079ffbbdb0d9225073eb5797ab7271"
   integrity sha512-D5mHD6TbdV/DNHYsnwBTv+y73ei+mMjrkGrla86HthE4/PVvL1J94Bu3qABU+COXzpL23T1EZapVVpwHuBXiUg==
@@ -2754,7 +2754,7 @@
     "@types/react" "*"
     "@types/react-router" "*"
 
-"@types/react-router@*", "@types/react-router@^5.1.4":
+"@types/react-router@*", "@types/react-router@5.1.11":
   version "5.1.11"
   resolved "https://registry.yarnpkg.com/@types/react-router/-/react-router-5.1.11.tgz#b01ce4cb21bf7d6b32edc862fc1e2c0088044b5b"
   integrity sha512-ofHbZMlp0Y2baOHgsWBQ4K3AttxY61bDMkwTiBOkPg7U6C/3UwwB5WaIx28JmSVi/eX3uFEMRo61BV22fDQIvg==
@@ -2863,7 +2863,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^4.14.0", "@typescript-eslint/eslint-plugin@^4.5.0":
+"@typescript-eslint/eslint-plugin@4.14.0", "@typescript-eslint/eslint-plugin@^4.5.0":
   version "4.14.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.14.0.tgz#92db8e7c357ed7d69632d6843ca70b71be3a721d"
   integrity sha512-IJ5e2W7uFNfg4qh9eHkHRUCbgZ8VKtGwD07kannJvM5t/GU8P8+24NX8gi3Hf5jST5oWPY8kyV1s/WtfiZ4+Ww==
@@ -2900,7 +2900,7 @@
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
-"@typescript-eslint/parser@^4.14.0", "@typescript-eslint/parser@^4.5.0":
+"@typescript-eslint/parser@4.14.0", "@typescript-eslint/parser@^4.5.0":
   version "4.14.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.14.0.tgz#62d4cd2079d5c06683e9bfb200c758f292c4dee7"
   integrity sha512-sUDeuCjBU+ZF3Lzw0hphTyScmDDJ5QVkyE21pRoBo8iDl7WBtVFS+WDN3blY1CH3SBt7EmYCw6wfmJjF0l/uYg==
@@ -6235,7 +6235,7 @@ escodegen@^1.12.0, escodegen@^1.14.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-prettier@^7.2.0:
+eslint-config-prettier@7.2.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-7.2.0.tgz#f4a4bd2832e810e8cc7c1411ec85b3e85c0c53f9"
   integrity sha512-rV4Qu0C3nfJKPOAhFujFxB7RMP+URFyQqqOZW9DMRD7ZDTFyjaIlETU3xzHELt++4ugC0+Jm084HQYkkJe+Ivg==
@@ -6314,7 +6314,7 @@ eslint-plugin-jsx-a11y@^6.3.1:
     jsx-ast-utils "^3.1.0"
     language-tags "^1.0.5"
 
-eslint-plugin-prettier@^3.3.1:
+eslint-plugin-prettier@3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.3.1.tgz#7079cfa2497078905011e6f82e8dd8453d1371b7"
   integrity sha512-Rq3jkcFY8RYeQLgk2cCwuc0P7SEFwDravPhsJZOQ5N4YI4DSg50NyqJ/9gdZHzQlHf8MvafSesbNJCcP/FF6pQ==
@@ -6394,7 +6394,7 @@ eslint-webpack-plugin@^2.1.0:
     micromatch "^4.0.2"
     schema-utils "^3.0.0"
 
-eslint@^7.11.0, eslint@^7.18.0:
+eslint@7.18.0, eslint@^7.11.0:
   version "7.18.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.18.0.tgz#7fdcd2f3715a41fe6295a16234bd69aed2c75e67"
   integrity sha512-fbgTiE8BfUJZuBeq2Yi7J3RB3WGUQ9PNuNbmgi6jt9Iv8qrkxfy19Ds3OpL1Pm7zg3BtTVhvcUZbIRQ0wmSjAQ==
@@ -8122,7 +8122,7 @@ invariant@^2.2.3, invariant@^2.2.4:
   dependencies:
     loose-envify "^1.0.0"
 
-ionicons@^5.0.0, ionicons@^5.1.2:
+ionicons@5.3.0, ionicons@^5.1.2:
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.3.0.tgz#06aeae29a1cedf4e0e17714104d51aef9675a7d8"
   integrity sha512-HU8g9fnuoBF3GUBXq4GcWYoOZ6mjMRUL2X1s/QyPsbZjGRrwBcsK+I20kxdho+YDPBqa+BQM0h+gzh4H4c9P2A==
@@ -12171,7 +12171,7 @@ react-refresh@^0.8.3:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.3.tgz#721d4657672d400c5e3c75d063c4a85fb2d5d68f"
   integrity sha512-X8jZHc7nCMjaCqoU+V2I0cOhNW+QMBwSUkeXnTi8IPe6zaRWfn60ZzvFDZqWPfmSJfjub7dDW1SP0jaHWLu/hg==
 
-react-router-dom@^5.1.2:
+react-router-dom@5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-5.2.0.tgz#9e65a4d0c45e13289e66c7b17c7e175d0ea15662"
   integrity sha512-gxAmfylo2QUjcwxI63RhQ5G85Qqt4voZpUXSEqCwykV0baaOTQDR1f0PmY8AELqIyVc0NEZUj0Gov5lNGcXgsA==
@@ -12184,7 +12184,7 @@ react-router-dom@^5.1.2:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-router@5.2.0, react-router@^5.1.2:
+react-router@5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/react-router/-/react-router-5.2.0.tgz#424e75641ca8747fbf76e5ecca69781aa37ea293"
   integrity sha512-smz1DUuFHRKdcJC0jobGo8cVbhO3x50tCL4icacOlcwDOEQPq4TMqwx3sY1TP+DvtTgz4nm3thuo7A+BK2U0Dw==
