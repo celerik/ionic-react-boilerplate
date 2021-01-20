@@ -5,7 +5,7 @@
 
 # Ionic React + Capacitor template
 <br>
-<img src="ionic-react-capacitor.png" alt="React" width="700">
+<img src="public/assets/ionic-react-capacitor.png" alt="React" width="700">
 
 </div>
 
