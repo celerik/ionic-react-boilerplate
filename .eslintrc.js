@@ -11,6 +11,6 @@ module.exports = {
   },
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
-    'prettier/prettier': ['error', { singleQuote: true }],
+    'prettier/prettier': ['error', { singleQuote: true, endOfLine: 'auto' }],
   },
 };
