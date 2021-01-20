@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394b4471-c9da-4c6b-b2c8-e9c0699a8bd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/ionic-react-capacitor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,8 +51,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/src/pages/Tabs" />
     </key>
   </component>
@@ -73,7 +72,7 @@
       <workItem from="1611149276984" duration="261000" />
       <workItem from="1611149541305" duration="418000" />
       <workItem from="1611149962566" duration="994000" />
-      <workItem from="1611150971124" duration="5914000" />
+      <workItem from="1611150971124" duration="6116000" />
     </task>
     <servers />
   </component>

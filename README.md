@@ -5,7 +5,7 @@
 
 # Ionic React + Capacitor template
 <br>
-<img src="ionic-react-capacitor.png" alt="Celerik" width="300">
+<img src="ionic-react-capacitor.png" alt="React" width="700">
 
 </div>
 
