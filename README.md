@@ -12,7 +12,8 @@
 ## What is included
 - Sass and Scss support
 - TypeScript support
-- Storybook for components
+- Storybook for components, docs [here](https://storybook.js.org/docs/react/get-started/introduction)
+- WebStorm/PhpStorm support
 - Eslint + Prettier Rules
 
 ## Requirements
